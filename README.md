@@ -99,4 +99,4 @@ func main() {
 
 ## License
 
-MIT
+* MIT
