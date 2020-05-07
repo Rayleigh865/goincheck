@@ -1,6 +1,6 @@
 # goincheck
 
-goincheck is [coincheck API](https://coincheck.com/ja/documents/exchange/api) library using Go Lang.
+goincheck is [coincheck API](https://coincheck.com/ja/documents/exchange/api) library for Go Lang.
 
 ## Installation
 
