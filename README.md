@@ -1,5 +1,7 @@
 # goincheck
 
+goincheck is [coincheck API](https://coincheck.com/ja/documents/exchange/api) library using Go Lang.
+
 ## Installation
 
 ```bash
@@ -100,3 +102,8 @@ func main() {
 ## License
 
 * MIT
+
+## ToDO
+
+* Test
+* Do various some
