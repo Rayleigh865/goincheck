@@ -106,4 +106,3 @@ func main() {
 ## ToDO
 
 * Test
-* Do various some
